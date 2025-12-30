@@ -77,22 +77,32 @@ Pandas – data handling and analysis
 Scikit-learn – model training, testing, and evaluation
 
 📂 Project Structure
-Voice_Emotion_Detection/
-│
-├── data/                 # Audio dataset
-├── models/               # Trained machine learning models
-├── src/                  # Source code
-│   ├── feature_extraction.py
-│   ├── train_model.py
-│   └── predict_emotion.py
-│
-├── app.py                # Main application file
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
 
-▶️ How to Run the Project
+Voice_Emotion_Detection
+
+├── data
+
+├── models
+
+├── src
+
+   ├── feature_extraction.py
+   
+   ├── train_model.py
+   
+   └── predict_emotion.py
+
+├── app.py     
+
+├── requirements.txt
+
+└── README.md             
+
+
+
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/voice-emotion-detection.git
+git clone https://github.com/Hariom-patidar-tech/voice-emotion-detection.git
 cd voice-emotion-detection
 
 2️⃣ Install Required Libraries
