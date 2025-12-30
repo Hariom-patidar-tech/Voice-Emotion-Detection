@@ -74,7 +74,7 @@ Voice_Emotion_Detection/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/voice-emotion-detection.git
+git clone https://github.com/Hariom-patidar-tech/voice-emotion-detection.git
 cd voice-emotion-detection
 
 2️⃣ Install Required Libraries
