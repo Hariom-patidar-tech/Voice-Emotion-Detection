@@ -120,9 +120,9 @@ Intelligent voice-based AI systems
 
 🔮 Future Enhancements
 
-Integration of deep learning models such as CNN and LSTM
+   Integration of deep learning models such as CNN and LSTM
 
-Improved prediction accuracy using larger and diverse datasets
+   Improved prediction accuracy using larger and diverse datasets
 
 Multi-language emotion recognition support
 
