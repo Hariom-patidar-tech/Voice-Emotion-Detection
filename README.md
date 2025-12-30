@@ -1,7 +1,10 @@
 🎙️ Voice Emotion Detection using Machine Learning
+
+
 📌 Overview
 
-Voice Emotion Detection is a machine learning–based system designed to identify human emotions from speech signals. The application analyzes audio input, extracts relevant acoustic features, and predicts emotions such as Happy, Sad, Angry, and Neutral.
+Voice Emotion Detection is a machine learning–based system designed to identify human emotions from speech signals.
+The application analyzes audio input, extracts relevant acoustic features, and predicts emotions such as Happy, Sad, Angry, and Neutral.
 
 This project demonstrates the practical implementation of Speech Emotion Recognition (SER) using Python and machine learning techniques, with a focus on:
 
